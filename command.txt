@@ -1,0 +1,2 @@
+python main.py './bedfiles/*'  './representations/antibody_universe.txt' 4 10 10 2 8
+
