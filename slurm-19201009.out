@@ -1,0 +1,12 @@
+Importing Jupyter notebook from ReadBedFiles.ipynb
+Importing Jupyter notebook from AIListFunc.ipynb
+Importing Jupyter notebook from Region2vec.ipynb
+Reading universe file: Done 2020-12-06 21:49:35.749058
+20
+Reading bed files: Done 2020-12-06 21:49:39.338927
+Converting to matrix: Done 2020-12-06 21:49:39.358479
+Reading files Done
+Conversion Done
+Shuffling Done
+Training Done
+720

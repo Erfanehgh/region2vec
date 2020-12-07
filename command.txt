@@ -1,2 +1,4 @@
+python main.py path_bed_files universeFile_path numberofCores dimension min_count shuffle_repeat window_size 
+
 python main.py './bedfiles/*'  './representations/antibody_universe.txt' 4 10 10 2 8
 
